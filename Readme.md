@@ -2,7 +2,7 @@
 
 Tool to locate IP.
 
-![](https://i.imgur.com/Ghrtu1U.png)
+![](https://i.imgur.com/k2GPpGK.png)
 
 ## Linux
 ### Instalation
